@@ -1,0 +1,3 @@
+Arduino Uno Rev 3
+LCDキャラクタディスプレイモジュール(16×2行バックライト無)SC1602BS-B-XA-GB-K
+KKHMF NEO6M MV2 Flight コントローラー NEO-6M EEPROM MWC APM 2.5 GPS モジュール 
